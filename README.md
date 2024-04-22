@@ -17,7 +17,7 @@
 
 <div align="center"> 
 
-<a href="mailto:cmp.1a.eduardacamili@outlook.com">
+<a href="mailto:eduardacamili@outlook.com">
 <img align="center"  height="80" width="80" src="https://github.com/EduardaCamilli/EduardaCamilli/assets/167348508/a7b4b9f1-b289-4a94-a15b-21b4dac25504">
 </a>
 
